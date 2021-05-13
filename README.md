@@ -1,16 +1,17 @@
-# The Simple Game on RayLib
+# RayLib Simple Game
 
-## How to build?
-
+## How to install dependencies?
 ```
 brew install cmake
 brew install raylib
+```
 
+## How to build project?
+```
 ./build-project.sh
 ```
 
-## How to run?
-
+## How to run executable?
 ```
 ./build/raylib_simple_game
 ```
